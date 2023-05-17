@@ -25,7 +25,7 @@ html{
  }
 
  header{
-    position: absolute;
+    position: fixed;
     top:0;
     left:0;
     z-index: 10;
@@ -35,11 +35,13 @@ html{
     display: -ms-flex;
     display: -o-flex;
     display: flex;
+    background-color: black;
 
     justify-content: space-between;
     align-items: center;
     color:#fff;
     padding: 35px 100px 0;
+    padding-bottom: 35px;
  }
  header h2{
 text-transform: uppercase;
@@ -369,7 +371,7 @@ height: 755px;
     border-top-right-radius: 15px;
     border-bottom-left-radius: 15px;
 }
-.bottom{
+/*.bottom{
     display: flex;
     z-index: 9;
     position: absolute;
@@ -384,7 +386,7 @@ height: 755px;
     padding: 13px 20px 20px;
     border-top-right-radius: 15px;
     border-bottom-left-radius: 15px;
-}
+}*/
 
 
 /*footer*/
