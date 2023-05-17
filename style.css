@@ -170,65 +170,9 @@ padding:125px 30px;
       font-size: 20px;
    }
 }
-/*About Us area, this codes did not work*/
-/*ul.about-content{
-width: 100%;
-display: -webkit-flex;
-display: -moz-flex;
-display: -ms-flex;
-display: -o-flex;
-display:flex;
-flex-wrap: wrap;
-justify-content: center;
-}
-   .about-content li{
-      padding: 20px;
-      height:  290px;
-      background-clip: content-box;
-      -webkit-background-size: cover;
-      background-size:cover;
-      background-position: center;
-      display: flex;
-   }
-.about-left{
-   flex:40%;
-   background-image: url();
-   background-color: blueviolet;
-}
 
-.left-img1{
-   height: 20px;
-   width: 50px;
-}
 
-.about-right{
-   flex-basis:60%;
-   background-color: yellowgreen;
-}
-.about-area p{
-   max-width: 800px;
-   margin-bottom: 35px;
-   line-height: 1.5;
-   text-align: left;
-   padding-left: 0px;
-} 
-.section-title{
-   text-transform:uppercase;
-   font-size: 50px;
-   margin-bottom:5%;
-}
-.about-right h2{
-   margin-bottom:3%;
-}
-.about-btn{
-   padding:15px 35px;
-   background-color: crimson;
-   color: white;
-   border-radius:50px;
-   text-transform:uppercase;
-}*/
-
-   /*solution to about area display*/
+   /*About Section */
    .about-area{
       width: 100%;
       
